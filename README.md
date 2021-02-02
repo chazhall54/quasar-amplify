@@ -1,6 +1,6 @@
 # Quasar App (quasar-demo)
 
-A Quasar Framework app
+A Quasar Framework app...TESTTTTT
 
 ## Install the dependencies
 ```bash
