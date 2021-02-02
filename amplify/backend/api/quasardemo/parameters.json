@@ -1,0 +1,11 @@
+{
+  "AppSyncApiName": "quasardemo",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthCognitoUserPoolId": {
+    "Fn::GetAtt": [
+      "authquasardemo3f4f238e",
+      "Outputs.UserPoolId"
+    ]
+  }
+}
